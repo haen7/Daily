@@ -1,1 +1,1 @@
-# Daily
+# Day 1
