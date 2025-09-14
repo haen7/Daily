@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
   int day;
-  day = 364;   
+  day = 365;   
   printf("daily = %d", day);
   return 0;
 }
